@@ -1,5 +1,6 @@
 @echo off
 title Rar Bypass - Y-RedRoom
+mode 80,15
 chcp 65001 >nul
 echo.
 echo.
